@@ -6,6 +6,7 @@ Este repositório contém os desafios técnicos propostos pelas equipes de Engen
   - [Desafio Técnico 01](devops/challenge-01/README.md)
   - [Desafio Técnico 02](devops/challenge-02/README.md)
   - [Desafio Técnico 03](devops/challenge-03/README.md)
+  - [Desafio Técnico 04](devops/challenge-04/README.md)
 
 ## Dúvidas
 
